@@ -2,19 +2,7 @@
 
 App de Android para llevar el colegio: notas por periodo, tareas, exámenes, horario y recordatorios. Los datos se quedan en el celular y no necesita internet para funcionar.
 
-El diseño está basado en Apple Music. Las materias se ven como álbumes, y abajo hay un panel fijo, parecido al reproductor, con lo próximo que tienes.
 
-<p align="center">
-  <img src="docs/capturas/inicio.png" width="200" alt="Inicio">
-  <img src="docs/capturas/materia.png" width="200" alt="Página de una materia">
-  <img src="docs/capturas/periodos.png" width="200" alt="Notas por periodo">
-</p>
-<p align="center">
-  <img src="docs/capturas/tareas.png" width="200" alt="Tareas">
-  <img src="docs/capturas/horario.png" width="200" alt="Horario">
-  <img src="docs/capturas/panel.png" width="200" alt="Panel expandido con temporizador">
-</p>
-<p align="center"><sub>Capturas con los datos de ejemplo que trae la app.</sub></p>
 
 ## Qué tiene
 
